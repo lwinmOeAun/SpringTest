@@ -6,3 +6,5 @@ next
 This is next test of the Step
 eveything is ok now
 no matter at all
+
+Here is something change in lover
